@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "922908031081",
+    "project_id": "brew-crew-f276b",
+    "storage_bucket": "brew-crew-f276b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922908031081:android:fedf9e00302cc504440af8",
+        "android_client_info": {
+          "package_name": "com.ravindu.brew_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922908031081-menia42lc6rccecm67p1bmfgjosce1df.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe5ohe_h6-wu0TCihEEviIxUOIVdYTfLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922908031081-menia42lc6rccecm67p1bmfgjosce1df.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
